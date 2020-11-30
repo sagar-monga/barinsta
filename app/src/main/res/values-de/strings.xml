@@ -61,10 +61,10 @@
     <string name="votef_story_poll">Abstimmung erfolgreich!</string>
     <string name="voted_story_poll">Du hast bereits abgestimmt!</string>
     <string name="respond_story">Antworten</string>
-    <string name="answer_hint">Answer…</string>
+    <string name="answer_hint">Antworten…</string>
     <string name="answered_story">Antwort erfolgreich!</string>
     <string name="reply_story">Auf Story antworten</string>
-    <string name="reply_hint">Reply…</string>
+    <string name="reply_hint">Antworten…</string>
     <string name="story_quiz">Quiz</string>
     <string name="story_quizzed">Du hast bereits geantwortet!</string>
     <string name="story_mentions">Erwähnungen</string>
@@ -86,8 +86,8 @@
     <string name="saved">Gespeichert</string>
     <string name="tagged">Markiert</string>
     <string name="dm_person">Nachricht</string>
-    <string name="like_without_count">Like</string>
-    <string name="unlike_without_count">Unlike</string>
+    <string name="like_without_count">Gefällt mir</string>
+    <string name="unlike_without_count">Gefällt mir nicht mehr</string>
     <string name="bookmark">Lesezeichen</string>
     <string name="unbookmark">Lesezeichen entfernen</string>
     <string name="follow">Folgen</string>
@@ -165,7 +165,7 @@
     <string name="direct_download_perms_ask">Bitte erteile die Berechtigung und versuche das Herunterladen erneut!</string>
     <string name="downloader_started">Download gestartet</string>
     <string name="downloader_complete">Download abgeschlossen</string>
-    <string name="downloader_downloading_post">Downloading post…</string>
+    <string name="downloader_downloading_post">Beitrag wird heruntergeladen…</string>
     <string name="downloader_downloading_media">Medien herunterladen</string>
     <string name="downloader_downloading_pfp">Profilbild wird heruntergeladen</string>
     <string name="downloader_downloaded_in_folder">Datei im Download-Verzeichnis heruntergeladen!</string>
@@ -189,8 +189,8 @@
     <string name="followers_not_following">Hat %s nicht abonniert</string>
     <string name="followers_not_follower">Nicht von %s abonniert</string>
     <string name="login_error_loading_cookies">Fehler beim Laden der Cookies</string>
-    <string name="comment_hint">Write a new comment…</string>
-    <string name="dm_hint">Write a new message…</string>
+    <string name="comment_hint">Schreibe einen neuen Kommentar…</string>
+    <string name="dm_hint">Schreibe eine neue Nachricht…</string>
     <string name="liked_notif">gefällt dein Foto.</string>
     <string name="comment_notif">Hat deinen Beitrag kommentiert:</string>
     <string name="follow_notif">folgt dir jetzt.</string>
@@ -209,7 +209,7 @@
     <string name="crash_descr">Hoppla.. die App ist abgestürzt, aber keine Sorge — du kannst Fehlerberichte an den Entwickler senden, um ihm zu helfen, das Problem zu beheben. (:</string>
     <string name="action_notif">Aktivität</string>
     <string name="select_picture">Bild auswählen</string>
-    <string name="uploading">Uploading…</string>
+    <string name="uploading">Hochladen…</string>
     <string name="activity_count_prefix">Du hast:</string>
     <string name="activity_count_relationship">%d Abonnenten</string>
     <string name="activity_count_comments">%d Kommentare</string>
@@ -266,7 +266,7 @@
     <string name="select_backup_file">Wähle eine Sicherungsdatei (.zaai/.backup)</string>
     <string name="apply">Anwenden</string>
     <string name="save">Speichern</string>
-    <string name="caption">Caption</string>
+    <string name="caption">Bildunterschrift</string>
     <string name="player_timeline_desc">Video player timeline</string>
     <string name="liking">Liking…</string>
     <string name="like_unsuccessful">Like unsuccessful</string>
@@ -277,10 +277,10 @@
     <string name="removing">Removing…</string>
     <string name="save_unsuccessful">Save unsuccessful</string>
     <string name="save_remove_unsuccessful">Remove unsuccessful</string>
-    <string name="downloading">Downloading…</string>
+    <string name="downloading">Herunterladen…</string>
     <string name="downloader_downloading_child">Download item %d of %d</string>
-    <string name="delete">Delete</string>
-    <string name="comment">Comment</string>
+    <string name="delete">Löschen</string>
+    <string name="comment">Kommentar</string>
     <string name="layout">Layout</string>
     <string name="opening_post">Opening post...</string>
     <string name="share">Share</string>
@@ -290,18 +290,18 @@
     <string name="three">3</string>
     <string name="show_names">Namen anzeigen</string>
     <string name="show_avatars">Avatare anzeigen</string>
-    <string name="avatar_size">Avatar size</string>
-    <string name="corners">Corners</string>
+    <string name="avatar_size">Avatargröße</string>
+    <string name="corners">Ecken</string>
     <string name="show_grid_gap">Rasterabstand anzeigen</string>
-    <string name="disable_animation">Disable animation</string>
-    <string name="follower_wait_to_load">Please wait for the current task to complete first!</string>
-    <string name="post_not_found">Post not found!</string>
+    <string name="disable_animation">Animationen deaktivieren</string>
+    <string name="follower_wait_to_load">Bitte warte bis die aktuelle Aufgabe abgeschlossen ist!</string>
+    <string name="post_not_found">Beitrag nicht gefunden!</string>
     <plurals name="likes_count">
-        <item quantity="one">%d like</item>
-        <item quantity="other">%d likes</item>
+        <item quantity="one">%d Person gefällt das</item>
+        <item quantity="other">%d Personen gefällt das</item>
     </plurals>
     <plurals name="comments_count">
-        <item quantity="one">%d comment</item>
-        <item quantity="other">%d comments</item>
+        <item quantity="one">%d Kommentar</item>
+        <item quantity="other">%d Kommentare</item>
     </plurals>
 </resources>
