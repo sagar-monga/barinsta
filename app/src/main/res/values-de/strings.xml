@@ -296,6 +296,7 @@
     <string name="disable_animation">Animationen deaktivieren</string>
     <string name="follower_wait_to_load">Bitte warte bis die aktuelle Aufgabe abgeschlossen ist!</string>
     <string name="post_not_found">Beitrag nicht gefunden!</string>
+    <string name="no_external_app_url">No app found which opens urls</string>
     <plurals name="likes_count">
         <item quantity="one">%d Person gefällt das</item>
         <item quantity="other">%d Personen gefällt das</item>
