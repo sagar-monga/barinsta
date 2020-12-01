@@ -296,6 +296,7 @@
     <string name="disable_animation">Desactivar l\'animació</string>
     <string name="follower_wait_to_load">Espera primer que la tasca actual s\'hagi completat!</string>
     <string name="post_not_found">Publicació no trobada!</string>
+    <string name="no_external_app_url">No app found which opens urls</string>
     <plurals name="likes_count">
         <item quantity="one">%d m\'agrada</item>
         <item quantity="other">%d m\'agrades</item>
