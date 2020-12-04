@@ -268,7 +268,7 @@
     <string name="save">Speichern</string>
     <string name="caption">Bildunterschrift</string>
     <string name="player_timeline_desc">Zeitleiste des Videoplayers</string>
-    <string name="liking">Gefällt…</string>
+    <string name="liking">Liking…</string>
     <string name="like_unsuccessful">Like unsuccessful</string>
     <string name="unlike_unsuccessful">Unlike unsuccessful</string>
     <string name="unliking">Unliking…</string>
