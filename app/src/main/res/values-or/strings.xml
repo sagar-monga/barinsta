@@ -28,9 +28,9 @@
     <string name="update_check">ଖୋଲିବା ସମୟରେ ଅପଡେଟ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ</string>
     <string name="download_user_folder">ଡାଉନଲୋଡ ପୋଷ୍ଟକୁ ବ୍ୟବହାରକାରୀଙ୍କ ନାମରେ ହୋଇଥିବା ସ୍ଥାନ ରେ ରଖ</string>
     <string name="mark_as_seen_setting">କାହାଣୀଗୁଡିକ ଦେଖିବା ପରେ \'ଦେଖାଗଲା\' ଚିହ୍ନିତ କରନ୍ତୁ |</string>
-    <string name="mark_as_seen_setting_summary">Story author will know you viewed it</string>
-    <string name="dm_mark_as_seen_setting">Mark DM as seen after viewing</string>
-    <string name="dm_mark_as_seen_setting_summary">Other members will know you viewed it</string>
+    <string name="mark_as_seen_setting_summary">କାହାଣୀ ପ୍ରେରକ ଜାଣିବେ ତୁମେ ଏହାକୁ ଦେଖିଛ</string>
+    <string name="dm_mark_as_seen_setting">ବାର୍ତା ଦେଖିବା ପରେ \'ଦେଖାଗଲା\' ଚିହ୍ନିତ କରନ୍ତୁ |</string>
+    <string name="dm_mark_as_seen_setting_summary">ଅନ୍ୟ ସଦସ୍ୟମାନେ ଜାଣିବେ ତୁମେ ଏହାକୁ ଦେଖିଛ।</string>
     <string name="activity_setting">Enable activity notifications</string>
     <string name="error_loading_profile">Error loading profile!\nTry logging in and search again.</string>
     <string name="error_creating_folders">Error creating Download folder(s).</string>
